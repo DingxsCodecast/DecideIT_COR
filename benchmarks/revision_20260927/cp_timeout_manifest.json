@@ -1,0 +1,39 @@
+{
+  "data_root": ".",
+  "instances": [
+    {
+      "case_id": "independent/hard/n48_seed202609404807.ddt",
+      "category": "hard",
+      "ddt_statement_count": 144,
+      "dimension": 48,
+      "first_dimension": 24,
+      "historical_category": false,
+      "original_dblp_variables": 96,
+      "path": "benchmarks/revision_20260927/inputs/independent/hard/n48_seed202609404807.ddt",
+      "second_dimension": 24,
+      "seed": 202609404807,
+      "sha256": "7ad48eb81f9b007c85b6ed21e5c80ae64b0a026ab4ffb2ef0fa54a47d619c3da",
+      "source_project_path": "results/server/supplement02/independent/instances/hard/n48_seed202609404807.ddt"
+    },
+    {
+      "case_id": "independent/standard/n60_seed202609306005.ddt",
+      "category": "standard",
+      "ddt_statement_count": 150,
+      "dimension": 60,
+      "first_dimension": 30,
+      "historical_category": false,
+      "original_dblp_variables": 120,
+      "path": "benchmarks/revision_20260927/inputs/independent/standard/n60_seed202609306005.ddt",
+      "second_dimension": 30,
+      "seed": 202609306005,
+      "sha256": "92f682878f80231122264c1f032cd5ecb2f3c66d6b44c00a4984d0cafe597f81",
+      "source_project_path": "results/server/supplement02/independent/instances/standard/n60_seed202609306005.ddt"
+    }
+  ],
+  "not_a_new_unseen_holdout": true,
+  "protocol_id": "decideit-revision-20260927-v1",
+  "purpose": "two known CP timeouts; no deletion or silent time-limit changes",
+  "selected": 2,
+  "selection_frozen_before_new_revision_results": true,
+  "version": 1
+}

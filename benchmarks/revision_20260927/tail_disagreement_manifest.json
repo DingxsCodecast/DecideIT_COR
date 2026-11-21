@@ -1,0 +1,24 @@
+{
+  "data_root": ".",
+  "instances": [
+    {
+      "case_id": "group_b/3/134/20260425_114121370_4748_00p.ddt",
+      "category": "historical_tail_disagreement",
+      "ddt_statement_count": 75,
+      "dimension": 20,
+      "first_dimension": 10,
+      "historical_category": true,
+      "original_dblp_variables": 40,
+      "path": "benchmarks/revision_20260927/inputs/group_b/3/134/20260425_114121370_4748_00p.ddt",
+      "second_dimension": 10,
+      "sha256": "8966594ed20b0be5f14dbf8336bd286e472e9de596c684ef35ebd96b807d6c18",
+      "source_project_path": "data/B/3/134/20260425_114121370_4748_00p.ddt"
+    }
+  ],
+  "not_a_new_unseen_holdout": true,
+  "protocol_id": "decideit-revision-20260927-v1",
+  "purpose": "legacy tail disagreement; diagnostic only, level zero",
+  "selected": 1,
+  "selection_frozen_before_new_revision_results": true,
+  "version": 1
+}

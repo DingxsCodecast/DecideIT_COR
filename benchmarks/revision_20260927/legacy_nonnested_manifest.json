@@ -1,0 +1,89 @@
+{
+  "data_root": ".",
+  "instances": [
+    {
+      "case_id": "group_b/1/76/20260422_143530772_0066_00p.ddt",
+      "category": "long_tail",
+      "ddt_statement_count": 52,
+      "dimension": 11,
+      "first_dimension": 5,
+      "historical_category": true,
+      "original_dblp_variables": 22,
+      "path": "benchmarks/revision_20260927/inputs/group_b/1/76/20260422_143530772_0066_00p.ddt",
+      "second_dimension": 6,
+      "sha256": "3f1cb9a4f9db9f8c2215976d73b4070da5f3b088dc54c3fa64beb127a72fc813",
+      "source_project_path": "data/B/1/76/20260422_143530772_0066_00p.ddt"
+    },
+    {
+      "case_id": "group_b/2/17/20260424_160820417_0262_00p.ddt",
+      "category": "long_tail",
+      "ddt_statement_count": 49,
+      "dimension": 10,
+      "first_dimension": 4,
+      "historical_category": true,
+      "original_dblp_variables": 20,
+      "path": "benchmarks/revision_20260927/inputs/group_b/2/17/20260424_160820417_0262_00p.ddt",
+      "second_dimension": 6,
+      "sha256": "7768bf94c8dfe5b0dbc04256301667a51544d03c65e5d42f95f143fb2c9ef8de",
+      "source_project_path": "data/B/2/17/20260424_160820417_0262_00p.ddt"
+    },
+    {
+      "case_id": "group_b/2/28/20260424_144945250_0075_00p.ddt",
+      "category": "rlt",
+      "ddt_statement_count": 64,
+      "dimension": 12,
+      "first_dimension": 2,
+      "historical_category": true,
+      "original_dblp_variables": 24,
+      "path": "benchmarks/revision_20260927/inputs/group_b/2/28/20260424_144945250_0075_00p.ddt",
+      "second_dimension": 10,
+      "sha256": "2add2b2d7b2d5b09174e2bb8e6152756d5f54e82ff55d64614e93937efc6bcc0",
+      "source_project_path": "data/B/2/28/20260424_144945250_0075_00p.ddt"
+    },
+    {
+      "case_id": "group_b/2/388/20260424_173332982_1373_00p.ddt",
+      "category": "long_tail",
+      "ddt_statement_count": 53,
+      "dimension": 12,
+      "first_dimension": 6,
+      "historical_category": true,
+      "original_dblp_variables": 24,
+      "path": "benchmarks/revision_20260927/inputs/group_b/2/388/20260424_173332982_1373_00p.ddt",
+      "second_dimension": 6,
+      "sha256": "ec59d5104e48e93a6d056b0a3e1a231d748903c5f5733d0a2fb18e0b72f5462c",
+      "source_project_path": "data/B/2/388/20260424_173332982_1373_00p.ddt"
+    },
+    {
+      "case_id": "group_b/3/19/20260425_114121370_0737_00p.ddt",
+      "category": "long_tail",
+      "ddt_statement_count": 64,
+      "dimension": 13,
+      "first_dimension": 3,
+      "historical_category": true,
+      "original_dblp_variables": 26,
+      "path": "benchmarks/revision_20260927/inputs/group_b/3/19/20260425_114121370_0737_00p.ddt",
+      "second_dimension": 10,
+      "sha256": "4c9e87f0b8bbc4fcf8e0f98002b8541990dcf585b1e69735c98d99d15b0504a1",
+      "source_project_path": "data/B/3/19/20260425_114121370_0737_00p.ddt"
+    },
+    {
+      "case_id": "group_b/3/32/20260425_185329887_4078_00p.ddt",
+      "category": "long_tail",
+      "ddt_statement_count": 41,
+      "dimension": 10,
+      "first_dimension": 2,
+      "historical_category": true,
+      "original_dblp_variables": 20,
+      "path": "benchmarks/revision_20260927/inputs/group_b/3/32/20260425_185329887_4078_00p.ddt",
+      "second_dimension": 8,
+      "sha256": "3bf3da808265c2c8b21fa35a95e79e795c9d33f219fa2ab227d483cb328dae38",
+      "source_project_path": "data/B/3/32/20260425_185329887_4078_00p.ddt"
+    }
+  ],
+  "not_a_new_unseen_holdout": true,
+  "protocol_id": "decideit-revision-20260927-v1",
+  "purpose": "six known historical endpoint-monotonicity witnesses",
+  "selected": 6,
+  "selection_frozen_before_new_revision_results": true,
+  "version": 1
+}

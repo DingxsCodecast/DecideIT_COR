@@ -1,0 +1,81 @@
+{
+  "data_root": ".",
+  "instances": [
+    {
+      "case_id": "independent/hard/n36_seed202609403606.ddt",
+      "category": "hard",
+      "ddt_statement_count": 108,
+      "dimension": 36,
+      "first_dimension": 18,
+      "historical_category": false,
+      "original_dblp_variables": 72,
+      "path": "benchmarks/revision_20260927/inputs/independent/hard/n36_seed202609403606.ddt",
+      "second_dimension": 18,
+      "seed": 202609403606,
+      "sha256": "0037604f87d83d890b254d6872519fcc3592532b3d0b3f2c6ab62469cbebf959",
+      "source_project_path": "results/server/supplement02/independent/instances/hard/n36_seed202609403606.ddt"
+    },
+    {
+      "case_id": "independent/hard/n48_seed202609404802.ddt",
+      "category": "hard",
+      "ddt_statement_count": 144,
+      "dimension": 48,
+      "first_dimension": 24,
+      "historical_category": false,
+      "original_dblp_variables": 96,
+      "path": "benchmarks/revision_20260927/inputs/independent/hard/n48_seed202609404802.ddt",
+      "second_dimension": 24,
+      "seed": 202609404802,
+      "sha256": "3904c63b33aec86f70e50b72c8bbf8f61b054a68550c921cfdd35997c1d5326e",
+      "source_project_path": "results/server/supplement02/independent/instances/hard/n48_seed202609404802.ddt"
+    },
+    {
+      "case_id": "independent/hard/n60_seed202609406000.ddt",
+      "category": "hard",
+      "ddt_statement_count": 180,
+      "dimension": 60,
+      "first_dimension": 30,
+      "historical_category": false,
+      "original_dblp_variables": 120,
+      "path": "benchmarks/revision_20260927/inputs/independent/hard/n60_seed202609406000.ddt",
+      "second_dimension": 30,
+      "seed": 202609406000,
+      "sha256": "b4caebb5c04bce2abd037b0097239aededd1705d36e0e4b7e3dd01dd30c8e751",
+      "source_project_path": "results/server/supplement02/independent/instances/hard/n60_seed202609406000.ddt"
+    },
+    {
+      "case_id": "independent/hard/n60_seed202609406006.ddt",
+      "category": "hard",
+      "ddt_statement_count": 180,
+      "dimension": 60,
+      "first_dimension": 30,
+      "historical_category": false,
+      "original_dblp_variables": 120,
+      "path": "benchmarks/revision_20260927/inputs/independent/hard/n60_seed202609406006.ddt",
+      "second_dimension": 30,
+      "seed": 202609406006,
+      "sha256": "179dd287a5ba62a989fc20a8c9c32102d99ee3dea20dac86f59ea6f5129b944d",
+      "source_project_path": "results/server/supplement02/independent/instances/hard/n60_seed202609406006.ddt"
+    },
+    {
+      "case_id": "independent/hard/n60_seed202609406007.ddt",
+      "category": "hard",
+      "ddt_statement_count": 180,
+      "dimension": 60,
+      "first_dimension": 30,
+      "historical_category": false,
+      "original_dblp_variables": 120,
+      "path": "benchmarks/revision_20260927/inputs/independent/hard/n60_seed202609406007.ddt",
+      "second_dimension": 30,
+      "seed": 202609406007,
+      "sha256": "cf2154030a77ecf30d9168bca83090f696a0fbc2a6730ea4bf5b669855a1f6f7",
+      "source_project_path": "results/server/supplement02/independent/instances/hard/n60_seed202609406007.ddt"
+    }
+  ],
+  "not_a_new_unseen_holdout": true,
+  "protocol_id": "decideit-revision-20260927-v1",
+  "purpose": "known specialized-solver failures; retain explicit failure if unresolved",
+  "selected": 5,
+  "selection_frozen_before_new_revision_results": true,
+  "version": 1
+}
